@@ -1,3 +1,5 @@
+/*  wrap code that might fail on runtime */
+
 import React, { Component } from 'react';
 
 class ErrorBoundary extends Component {
