@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e0d14de5-546e-4fa1-adcd-330303a10d62" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Persons/Person/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -192,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567005269030</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="mid Abschnitt 7.85 - more css.modules fixed">
+      <created>1567005790765</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567005790765</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -260,7 +261,8 @@
     <MESSAGE value="Abschnitt 7.82 - Fixed error and ready for this module" />
     <MESSAGE value="Abschnitt 7.84 - SOMETHING WRONG!!! css doesn't get recognized" />
     <MESSAGE value="mid Abschnitt 7.85 - css.modules fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="mid Abschnitt 7.85 - css.modules fixed" />
+    <MESSAGE value="mid Abschnitt 7.85 - more css.modules fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="mid Abschnitt 7.85 - more css.modules fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
