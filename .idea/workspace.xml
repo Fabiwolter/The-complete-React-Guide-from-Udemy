@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0d14de5-546e-4fa1-adcd-330303a10d62" name="Default Changelist" comment="">
+    <list default="true" id="e0d14de5-546e-4fa1-adcd-330303a10d62" name="Default Changelist" comment="Abschnitt 7.87 ended" />
+    <list id="4d811b76-164e-4546-b124-9d04e3ab85be" name="workspace" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,6 +131,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e0d14de5-546e-4fa1-adcd-330303a10d62" name="Default Changelist" comment="" />
+      <changelist id="4d811b76-164e-4546-b124-9d04e3ab85be" name="workspace" comment="" />
       <created>1562833679324</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -145,7 +144,8 @@
       <workItem from="1564080006820" duration="9000" />
       <workItem from="1564126960758" duration="592000" />
       <workItem from="1565962790230" duration="7238000" />
-      <workItem from="1567066643030" duration="503000" />
+      <workItem from="1567066643030" duration="761000" />
+      <workItem from="1567067930342" duration="417000" />
     </task>
     <task id="LOCAL-00001" summary="2019-07-25 Tutorial unterbrochen bei Abschnitt 6 - 78. (Working with React Developer Tools">
       <created>1564044791421</created>
